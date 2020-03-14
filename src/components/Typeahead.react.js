@@ -4,11 +4,11 @@ import cx from 'classnames';
 import PropTypes from 'prop-types';
 import * as React from 'react';
 
-import Overlay from '../core/Overlay';
 import Typeahead from '../core/Typeahead';
 
 import ClearButton from './ClearButton.react';
 import Loader from './Loader.react';
+import Overlay from './Overlay.react';
 import RootClose from './RootClose.react';
 import Token from './Token.react';
 import TypeaheadInputMulti from './TypeaheadInputMulti.react';
